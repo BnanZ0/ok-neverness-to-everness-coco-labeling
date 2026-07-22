@@ -209,6 +209,12 @@
       "file_name": "34.png",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "id": 35,
+      "file_name": "35.png",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "annotations": [
@@ -1186,6 +1192,19 @@
       ],
       "area": 17721,
       "iscrowd": 0
+    },
+    {
+      "id": 76,
+      "image_id": 35,
+      "category_id": 77,
+      "bbox": [
+        1239,
+        437,
+        84,
+        93
+      ],
+      "area": 7812,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -1562,6 +1581,11 @@
     {
       "id": 76,
       "name": "box_house_preview_snapshot",
+      "supercategory": ""
+    },
+    {
+      "id": 77,
+      "name": "reward_popup",
       "supercategory": ""
     }
   ]
