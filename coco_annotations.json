@@ -227,6 +227,12 @@
       "file_name": "31.png",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "id": 40,
+      "file_name": "38.png",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "annotations": [
@@ -1269,6 +1275,19 @@
       ],
       "area": 7875,
       "iscrowd": 0
+    },
+    {
+      "id": 81,
+      "image_id": 40,
+      "category_id": 81,
+      "bbox": [
+        1103,
+        1085,
+        47,
+        48
+      ],
+      "area": 2256,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -1670,6 +1689,11 @@
     {
       "id": 80,
       "name": "zankou_skill_purple",
+      "supercategory": ""
+    },
+    {
+      "id": 81,
+      "name": "no_remind_today",
       "supercategory": ""
     }
   ]
