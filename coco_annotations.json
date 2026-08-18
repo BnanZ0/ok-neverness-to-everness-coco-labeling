@@ -1332,6 +1332,45 @@
       ],
       "area": 4160,
       "iscrowd": 0
+    },
+    {
+      "id": 84,
+      "image_id": 43,
+      "category_id": 85,
+      "bbox": [
+        91,
+        1055,
+        65,
+        64
+      ],
+      "area": 4160,
+      "iscrowd": 0
+    },
+    {
+      "id": 85,
+      "image_id": 43,
+      "category_id": 86,
+      "bbox": [
+        2408,
+        751,
+        55,
+        54
+      ],
+      "area": 2970,
+      "iscrowd": 0
+    },
+    {
+      "id": 86,
+      "image_id": 43,
+      "category_id": 42,
+      "bbox": [
+        2401,
+        743,
+        68,
+        227
+      ],
+      "area": 15436,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -1538,6 +1577,11 @@
     {
       "id": 41,
       "name": "stamina_icon",
+      "supercategory": ""
+    },
+    {
+      "id": 42,
+      "name": "box_volleyball_stars",
       "supercategory": ""
     },
     {
@@ -1748,6 +1792,16 @@
     {
       "id": 84,
       "name": "heist_exit_panel",
+      "supercategory": ""
+    },
+    {
+      "id": 85,
+      "name": "volleyball_next",
+      "supercategory": ""
+    },
+    {
+      "id": 86,
+      "name": "volleyball_star",
       "supercategory": ""
     }
   ]
