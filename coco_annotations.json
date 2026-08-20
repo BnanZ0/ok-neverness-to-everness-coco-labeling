@@ -187,6 +187,12 @@
       "height": 1440
     },
     {
+      "id": 31,
+      "file_name": "39.png",
+      "width": 1600,
+      "height": 900
+    },
+    {
       "id": 32,
       "file_name": "32.png",
       "width": 2560,
@@ -231,12 +237,6 @@
     {
       "id": 40,
       "file_name": "38.png",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "id": 41,
-      "file_name": "39.png",
       "width": 2560,
       "height": 1440
     },
@@ -803,9 +803,9 @@
     {
       "id": 43,
       "image_id": 18,
-      "category_id": 43,
+      "category_id": 88,
       "bbox": [
-        1494,
+        1493,
         931,
         45,
         48
@@ -1371,6 +1371,19 @@
       ],
       "area": 15436,
       "iscrowd": 0
+    },
+    {
+      "id": 87,
+      "image_id": 31,
+      "category_id": 87,
+      "bbox": [
+        1243,
+        776,
+        40,
+        40
+      ],
+      "area": 1600,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -1582,11 +1595,6 @@
     {
       "id": 42,
       "name": "box_volleyball_stars",
-      "supercategory": ""
-    },
-    {
-      "id": 43,
-      "name": "launcher_start_game",
       "supercategory": ""
     },
     {
@@ -1802,6 +1810,16 @@
     {
       "id": 86,
       "name": "volleyball_star",
+      "supercategory": ""
+    },
+    {
+      "id": 87,
+      "name": "launcher_update",
+      "supercategory": ""
+    },
+    {
+      "id": 88,
+      "name": "launcher_start",
       "supercategory": ""
     }
   ]
