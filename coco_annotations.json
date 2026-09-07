@@ -251,6 +251,12 @@
       "file_name": "41.png",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "id": 44,
+      "file_name": "42.png",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "annotations": [
@@ -1245,7 +1251,7 @@
     {
       "id": 77,
       "image_id": 36,
-      "category_id": 74,
+      "category_id": 78,
       "bbox": [
         247,
         258,
@@ -1253,19 +1259,6 @@
         31
       ],
       "area": 837,
-      "iscrowd": 0
-    },
-    {
-      "id": 78,
-      "image_id": 36,
-      "category_id": 78,
-      "bbox": [
-        1940,
-        681,
-        32,
-        13
-      ],
-      "area": 416,
       "iscrowd": 0
     },
     {
@@ -1383,6 +1376,19 @@
         40
       ],
       "area": 1600,
+      "iscrowd": 0
+    },
+    {
+      "id": 88,
+      "image_id": 44,
+      "category_id": 43,
+      "bbox": [
+        164,
+        263,
+        33,
+        31
+      ],
+      "area": 1023,
       "iscrowd": 0
     }
   ],
@@ -1598,6 +1604,11 @@
       "supercategory": ""
     },
     {
+      "id": 43,
+      "name": "fountain_icon",
+      "supercategory": ""
+    },
+    {
       "id": 44,
       "name": "f5_coffee_panel",
       "supercategory": ""
@@ -1748,11 +1759,6 @@
       "supercategory": ""
     },
     {
-      "id": 74,
-      "name": "bookshop_logo",
-      "supercategory": ""
-    },
-    {
       "id": 75,
       "name": "box_house_list_snapshot",
       "supercategory": ""
@@ -1769,7 +1775,7 @@
     },
     {
       "id": 78,
-      "name": "icecar_lights",
+      "name": "bookshop_icon",
       "supercategory": ""
     },
     {
