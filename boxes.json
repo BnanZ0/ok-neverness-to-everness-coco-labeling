@@ -1,0 +1,74 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "5.png",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "id": 2,
+      "file_name": "0.png",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        2163,
+        68,
+        333,
+        39
+      ],
+      "area": 12987,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 2,
+      "bbox": [
+        640,
+        360,
+        1280,
+        720
+      ],
+      "area": 921600,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2,
+      "category_id": 3,
+      "bbox": [
+        252,
+        150,
+        2042,
+        1138
+      ],
+      "area": 2323796,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "screen.dialog_icon",
+      "supercategory": ""
+    },
+    {
+      "id": 2,
+      "name": "screen.center",
+      "supercategory": ""
+    },
+    {
+      "id": 3,
+      "name": "screen.main_viewport",
+      "supercategory": ""
+    }
+  ]
+}
