@@ -281,6 +281,12 @@
       "file_name": "46.png",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "id": 49,
+      "file_name": "47.png",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "annotations": [
@@ -1466,6 +1472,19 @@
       ],
       "area": 4690,
       "iscrowd": 0
+    },
+    {
+      "id": 92,
+      "image_id": 49,
+      "category_id": 93,
+      "bbox": [
+        2198,
+        1262,
+        74,
+        74
+      ],
+      "area": 5476,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -1922,6 +1941,11 @@
     {
       "id": 91,
       "name": "volleyball_wc_start",
+      "supercategory": ""
+    },
+    {
+      "id": 93,
+      "name": "akane_skill_2",
       "supercategory": ""
     }
   ]
