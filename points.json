@@ -23,12 +23,6 @@
       "file_name": "46.png",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "id": 5,
-      "file_name": "9.png",
-      "width": 2560,
-      "height": 1440
     }
   ],
   "annotations": [
@@ -73,11 +67,11 @@
     },
     {
       "id": 4,
-      "image_id": 5,
+      "image_id": 4,
       "category_id": 4,
       "bbox": [
-        141,
-        552,
+        142,
+        441,
         0,
         0
       ],
@@ -115,8 +109,8 @@
       "image_id": 4,
       "category_id": 7,
       "bbox": [
-        143,
-        708,
+        142,
+        810,
         0,
         0
       ],
@@ -141,8 +135,8 @@
       "image_id": 4,
       "category_id": 9,
       "bbox": [
-        2346,
-        481,
+        2338,
+        218,
         0,
         0
       ],
@@ -154,19 +148,6 @@
       "image_id": 4,
       "category_id": 10,
       "bbox": [
-        2338,
-        218,
-        0,
-        0
-      ],
-      "area": 0,
-      "iscrowd": 0
-    },
-    {
-      "id": 11,
-      "image_id": 4,
-      "category_id": 11,
-      "bbox": [
         755,
         220,
         0,
@@ -176,12 +157,25 @@
       "iscrowd": 0
     },
     {
-      "id": 12,
+      "id": 11,
       "image_id": 1,
-      "category_id": 12,
+      "category_id": 11,
       "bbox": [
         146,
         497,
+        0,
+        0
+      ],
+      "area": 0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 3,
+      "category_id": 12,
+      "bbox": [
+        859,
+        972,
         0,
         0
       ],
@@ -193,8 +187,8 @@
       "image_id": 3,
       "category_id": 13,
       "bbox": [
-        859,
-        972,
+        1355,
+        678,
         0,
         0
       ],
@@ -205,19 +199,6 @@
       "id": 14,
       "image_id": 3,
       "category_id": 14,
-      "bbox": [
-        1355,
-        678,
-        0,
-        0
-      ],
-      "area": 0,
-      "iscrowd": 0
-    },
-    {
-      "id": 15,
-      "image_id": 3,
-      "category_id": 15,
       "bbox": [
         699,
         566,
@@ -271,36 +252,31 @@
     },
     {
       "id": 9,
-      "name": "panels.f1.domain.goto",
-      "supercategory": "panels"
-    },
-    {
-      "id": 10,
       "name": "panels.f1.domain.hunter",
       "supercategory": "panels"
     },
     {
-      "id": 11,
+      "id": 10,
       "name": "panels.f1.domain.skill",
       "supercategory": "panels"
     },
     {
-      "id": 12,
+      "id": 11,
       "name": "panels.f2.mission",
       "supercategory": "panels"
     },
     {
-      "id": 13,
+      "id": 12,
       "name": "panels.f5.coffee",
       "supercategory": "panels"
     },
     {
-      "id": 14,
+      "id": 13,
       "name": "panels.f5.hobbies",
       "supercategory": "panels"
     },
     {
-      "id": 15,
+      "id": 14,
       "name": "panels.f5.house",
       "supercategory": "panels"
     }
