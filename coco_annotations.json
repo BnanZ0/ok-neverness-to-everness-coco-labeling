@@ -287,6 +287,48 @@
       "file_name": "47.png",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "id": 50,
+      "file_name": "48.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 51,
+      "file_name": "49.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 52,
+      "file_name": "50.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 53,
+      "file_name": "51.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 54,
+      "file_name": "52.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 55,
+      "file_name": "53.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 56,
+      "file_name": "54.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -1485,6 +1527,162 @@
       ],
       "area": 5476,
       "iscrowd": 0
+    },
+    {
+      "id": 93,
+      "image_id": 50,
+      "category_id": 97,
+      "bbox": [
+        231,
+        183,
+        43,
+        41
+      ],
+      "area": 1763,
+      "iscrowd": 0
+    },
+    {
+      "id": 94,
+      "image_id": 51,
+      "category_id": 94,
+      "bbox": [
+        122,
+        462,
+        158,
+        45
+      ],
+      "area": 7110,
+      "iscrowd": 0
+    },
+    {
+      "id": 95,
+      "image_id": 52,
+      "category_id": 98,
+      "bbox": [
+        576,
+        844,
+        73,
+        67
+      ],
+      "area": 4891,
+      "iscrowd": 0
+    },
+    {
+      "id": 96,
+      "image_id": 50,
+      "category_id": 95,
+      "bbox": [
+        104,
+        39,
+        89,
+        47
+      ],
+      "area": 4183,
+      "iscrowd": 0
+    },
+    {
+      "id": 97,
+      "image_id": 53,
+      "category_id": 96,
+      "bbox": [
+        108,
+        34,
+        147,
+        58
+      ],
+      "area": 8526,
+      "iscrowd": 0
+    },
+    {
+      "id": 98,
+      "image_id": 53,
+      "category_id": 99,
+      "bbox": [
+        457,
+        290,
+        51,
+        28
+      ],
+      "area": 1428,
+      "iscrowd": 0
+    },
+    {
+      "id": 99,
+      "image_id": 54,
+      "category_id": 100,
+      "bbox": [
+        430,
+        225,
+        73,
+        66
+      ],
+      "area": 4818,
+      "iscrowd": 0
+    },
+    {
+      "id": 100,
+      "image_id": 55,
+      "category_id": 92,
+      "bbox": [
+        871,
+        238,
+        180,
+        90
+      ],
+      "area": 16200,
+      "iscrowd": 0
+    },
+    {
+      "id": 101,
+      "image_id": 55,
+      "category_id": 101,
+      "bbox": [
+        1555,
+        667,
+        52,
+        53
+      ],
+      "area": 2756,
+      "iscrowd": 0
+    },
+    {
+      "id": 102,
+      "image_id": 55,
+      "category_id": 102,
+      "bbox": [
+        1211,
+        772,
+        115,
+        52
+      ],
+      "area": 5980,
+      "iscrowd": 0
+    },
+    {
+      "id": 103,
+      "image_id": 56,
+      "category_id": 103,
+      "bbox": [
+        1112,
+        687,
+        95,
+        50
+      ],
+      "area": 4750,
+      "iscrowd": 0
+    },
+    {
+      "id": 104,
+      "image_id": 56,
+      "category_id": 104,
+      "bbox": [
+        896,
+        339,
+        135,
+        70
+      ],
+      "area": 9450,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -1944,8 +2142,68 @@
       "supercategory": ""
     },
     {
+      "id": 92,
+      "name": "event_999nights_buy_panel",
+      "supercategory": ""
+    },
+    {
       "id": 93,
       "name": "akane_skill_2",
+      "supercategory": ""
+    },
+    {
+      "id": 94,
+      "name": "event_999nights",
+      "supercategory": ""
+    },
+    {
+      "id": 95,
+      "name": "f4_panel",
+      "supercategory": ""
+    },
+    {
+      "id": 96,
+      "name": "event_999nights_store_panel",
+      "supercategory": ""
+    },
+    {
+      "id": 97,
+      "name": "f4_permanent_events_button",
+      "supercategory": ""
+    },
+    {
+      "id": 98,
+      "name": "event_999nights_store",
+      "supercategory": ""
+    },
+    {
+      "id": 99,
+      "name": "event_999nights_sold_out",
+      "supercategory": ""
+    },
+    {
+      "id": 100,
+      "name": "event_999nights_item_heterogeneous_unit",
+      "supercategory": ""
+    },
+    {
+      "id": 101,
+      "name": "event_999nights_buy_max",
+      "supercategory": ""
+    },
+    {
+      "id": 102,
+      "name": "event_999nights_buy_button",
+      "supercategory": ""
+    },
+    {
+      "id": 103,
+      "name": "buy_confirm",
+      "supercategory": ""
+    },
+    {
+      "id": 104,
+      "name": "buy_confirm_panel",
       "supercategory": ""
     }
   ]
