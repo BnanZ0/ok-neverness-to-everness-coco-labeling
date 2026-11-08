@@ -329,6 +329,12 @@
       "file_name": "54.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 57,
+      "file_name": "55.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -2113,7 +2119,7 @@
     },
     {
       "id": 101,
-      "name": "event_999nights_buy_max",
+      "name": "buy_max",
       "supercategory": ""
     }
   ]
