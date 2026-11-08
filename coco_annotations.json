@@ -323,18 +323,6 @@
       "file_name": "53.png",
       "width": 1920,
       "height": 1080
-    },
-    {
-      "id": 56,
-      "file_name": "54.png",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "id": 57,
-      "file_name": "55.png",
-      "width": 1920,
-      "height": 1080
     }
   ],
   "annotations": [
@@ -1587,19 +1575,6 @@
       "iscrowd": 0
     },
     {
-      "id": 97,
-      "image_id": 53,
-      "category_id": 96,
-      "bbox": [
-        32,
-        38,
-        53,
-        47
-      ],
-      "area": 2491,
-      "iscrowd": 0
-    },
-    {
       "id": 98,
       "image_id": 54,
       "category_id": 100,
@@ -2095,11 +2070,6 @@
     {
       "id": 95,
       "name": "f4_panel",
-      "supercategory": ""
-    },
-    {
-      "id": 96,
-      "name": "event_999nights_store_panel",
       "supercategory": ""
     },
     {
