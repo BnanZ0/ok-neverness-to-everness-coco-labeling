@@ -1546,12 +1546,12 @@
       "image_id": 51,
       "category_id": 94,
       "bbox": [
-        122,
+        68,
         462,
-        158,
-        45
+        44,
+        46
       ],
-      "area": 7110,
+      "area": 2024,
       "iscrowd": 0
     },
     {
@@ -1572,12 +1572,12 @@
       "image_id": 50,
       "category_id": 95,
       "bbox": [
-        104,
+        31,
         39,
-        89,
-        47
+        54,
+        44
       ],
-      "area": 4183,
+      "area": 2376,
       "iscrowd": 0
     },
     {
@@ -1585,29 +1585,16 @@
       "image_id": 53,
       "category_id": 96,
       "bbox": [
-        108,
-        34,
-        147,
-        58
+        32,
+        38,
+        53,
+        47
       ],
-      "area": 8526,
+      "area": 2491,
       "iscrowd": 0
     },
     {
       "id": 98,
-      "image_id": 53,
-      "category_id": 99,
-      "bbox": [
-        457,
-        290,
-        51,
-        28
-      ],
-      "area": 1428,
-      "iscrowd": 0
-    },
-    {
-      "id": 99,
       "image_id": 54,
       "category_id": 100,
       "bbox": [
@@ -1620,20 +1607,7 @@
       "iscrowd": 0
     },
     {
-      "id": 100,
-      "image_id": 55,
-      "category_id": 92,
-      "bbox": [
-        871,
-        238,
-        180,
-        90
-      ],
-      "area": 16200,
-      "iscrowd": 0
-    },
-    {
-      "id": 101,
+      "id": 99,
       "image_id": 55,
       "category_id": 101,
       "bbox": [
@@ -1643,45 +1617,6 @@
         53
       ],
       "area": 2756,
-      "iscrowd": 0
-    },
-    {
-      "id": 102,
-      "image_id": 55,
-      "category_id": 102,
-      "bbox": [
-        1211,
-        772,
-        115,
-        52
-      ],
-      "area": 5980,
-      "iscrowd": 0
-    },
-    {
-      "id": 103,
-      "image_id": 56,
-      "category_id": 103,
-      "bbox": [
-        1112,
-        687,
-        95,
-        50
-      ],
-      "area": 4750,
-      "iscrowd": 0
-    },
-    {
-      "id": 104,
-      "image_id": 56,
-      "category_id": 104,
-      "bbox": [
-        896,
-        339,
-        135,
-        70
-      ],
-      "area": 9450,
       "iscrowd": 0
     }
   ],
@@ -2142,11 +2077,6 @@
       "supercategory": ""
     },
     {
-      "id": 92,
-      "name": "event_999nights_buy_panel",
-      "supercategory": ""
-    },
-    {
       "id": 93,
       "name": "akane_skill_2",
       "supercategory": ""
@@ -2177,11 +2107,6 @@
       "supercategory": ""
     },
     {
-      "id": 99,
-      "name": "event_999nights_sold_out",
-      "supercategory": ""
-    },
-    {
       "id": 100,
       "name": "event_999nights_item_heterogeneous_unit",
       "supercategory": ""
@@ -2189,21 +2114,6 @@
     {
       "id": 101,
       "name": "event_999nights_buy_max",
-      "supercategory": ""
-    },
-    {
-      "id": 102,
-      "name": "event_999nights_buy_button",
-      "supercategory": ""
-    },
-    {
-      "id": 103,
-      "name": "buy_confirm",
-      "supercategory": ""
-    },
-    {
-      "id": 104,
-      "name": "buy_confirm_panel",
       "supercategory": ""
     }
   ]
