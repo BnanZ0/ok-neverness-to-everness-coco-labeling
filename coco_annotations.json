@@ -287,6 +287,42 @@
       "file_name": "47.png",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "id": 50,
+      "file_name": "48.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 51,
+      "file_name": "49.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 52,
+      "file_name": "50.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 53,
+      "file_name": "51.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 54,
+      "file_name": "52.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 55,
+      "file_name": "53.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -1485,6 +1521,84 @@
       ],
       "area": 5476,
       "iscrowd": 0
+    },
+    {
+      "id": 93,
+      "image_id": 50,
+      "category_id": 97,
+      "bbox": [
+        231,
+        183,
+        43,
+        41
+      ],
+      "area": 1763,
+      "iscrowd": 0
+    },
+    {
+      "id": 94,
+      "image_id": 51,
+      "category_id": 94,
+      "bbox": [
+        68,
+        462,
+        44,
+        46
+      ],
+      "area": 2024,
+      "iscrowd": 0
+    },
+    {
+      "id": 95,
+      "image_id": 52,
+      "category_id": 98,
+      "bbox": [
+        576,
+        844,
+        73,
+        67
+      ],
+      "area": 4891,
+      "iscrowd": 0
+    },
+    {
+      "id": 96,
+      "image_id": 50,
+      "category_id": 95,
+      "bbox": [
+        31,
+        39,
+        54,
+        44
+      ],
+      "area": 2376,
+      "iscrowd": 0
+    },
+    {
+      "id": 98,
+      "image_id": 54,
+      "category_id": 100,
+      "bbox": [
+        430,
+        225,
+        73,
+        66
+      ],
+      "area": 4818,
+      "iscrowd": 0
+    },
+    {
+      "id": 99,
+      "image_id": 55,
+      "category_id": 101,
+      "bbox": [
+        1555,
+        667,
+        52,
+        53
+      ],
+      "area": 2756,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -1946,6 +2060,36 @@
     {
       "id": 93,
       "name": "akane_skill_2",
+      "supercategory": ""
+    },
+    {
+      "id": 94,
+      "name": "event_999nights",
+      "supercategory": ""
+    },
+    {
+      "id": 95,
+      "name": "f4_panel",
+      "supercategory": ""
+    },
+    {
+      "id": 97,
+      "name": "f4_permanent_events_button",
+      "supercategory": ""
+    },
+    {
+      "id": 98,
+      "name": "event_999nights_store",
+      "supercategory": ""
+    },
+    {
+      "id": 100,
+      "name": "event_999nights_item_heterogeneous_unit",
+      "supercategory": ""
+    },
+    {
+      "id": 101,
+      "name": "buy_max",
       "supercategory": ""
     }
   ]
