@@ -135,8 +135,8 @@
       "image_id": 4,
       "category_id": 9,
       "bbox": [
-        2338,
-        218,
+        2347,
+        419,
         0,
         0
       ],
@@ -148,6 +148,32 @@
       "image_id": 4,
       "category_id": 10,
       "bbox": [
+        2338,
+        218,
+        0,
+        0
+      ],
+      "area": 0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 4,
+      "category_id": 11,
+      "bbox": [
+        1700,
+        220,
+        0,
+        0
+      ],
+      "area": 0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 4,
+      "category_id": 12,
+      "bbox": [
         755,
         220,
         0,
@@ -157,9 +183,9 @@
       "iscrowd": 0
     },
     {
-      "id": 11,
+      "id": 13,
       "image_id": 1,
-      "category_id": 11,
+      "category_id": 13,
       "bbox": [
         146,
         497,
@@ -170,9 +196,9 @@
       "iscrowd": 0
     },
     {
-      "id": 12,
+      "id": 14,
       "image_id": 3,
-      "category_id": 12,
+      "category_id": 14,
       "bbox": [
         859,
         972,
@@ -183,9 +209,9 @@
       "iscrowd": 0
     },
     {
-      "id": 13,
+      "id": 15,
       "image_id": 3,
-      "category_id": 13,
+      "category_id": 15,
       "bbox": [
         1355,
         678,
@@ -196,9 +222,9 @@
       "iscrowd": 0
     },
     {
-      "id": 14,
+      "id": 16,
       "image_id": 3,
-      "category_id": 14,
+      "category_id": 16,
       "bbox": [
         699,
         566,
@@ -252,31 +278,41 @@
     },
     {
       "id": 9,
-      "name": "panels.f1.domain.hunter",
+      "name": "panels.f1.domain.goto",
       "supercategory": "panels"
     },
     {
       "id": 10,
-      "name": "panels.f1.domain.skill",
+      "name": "panels.f1.domain.hunter",
       "supercategory": "panels"
     },
     {
       "id": 11,
-      "name": "panels.f2.mission",
+      "name": "panels.f1.domain.pilgrimage",
       "supercategory": "panels"
     },
     {
       "id": 12,
-      "name": "panels.f5.coffee",
+      "name": "panels.f1.domain.skill",
       "supercategory": "panels"
     },
     {
       "id": 13,
-      "name": "panels.f5.hobbies",
+      "name": "panels.f2.mission",
       "supercategory": "panels"
     },
     {
       "id": 14,
+      "name": "panels.f5.coffee",
+      "supercategory": "panels"
+    },
+    {
+      "id": 15,
+      "name": "panels.f5.hobbies",
+      "supercategory": "panels"
+    },
+    {
+      "id": 16,
       "name": "panels.f5.house",
       "supercategory": "panels"
     }
