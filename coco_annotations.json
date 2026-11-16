@@ -317,6 +317,12 @@
       "file_name": "53.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 56,
+      "file_name": "51.png",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "annotations": [
@@ -1569,6 +1575,19 @@
       "iscrowd": 0
     },
     {
+      "id": 97,
+      "image_id": 56,
+      "category_id": 92,
+      "bbox": [
+        116,
+        411,
+        56,
+        58
+      ],
+      "area": 3248,
+      "iscrowd": 0
+    },
+    {
       "id": 98,
       "image_id": 54,
       "category_id": 100,
@@ -1592,6 +1611,19 @@
         53
       ],
       "area": 2756,
+      "iscrowd": 0
+    },
+    {
+      "id": 100,
+      "image_id": 56,
+      "category_id": 96,
+      "bbox": [
+        117,
+        775,
+        51,
+        70
+      ],
+      "area": 3570,
       "iscrowd": 0
     }
   ],
@@ -2052,6 +2084,11 @@
       "supercategory": ""
     },
     {
+      "id": 92,
+      "name": "f1_activity",
+      "supercategory": ""
+    },
+    {
       "id": 93,
       "name": "akane_skill_2",
       "supercategory": ""
@@ -2064,6 +2101,11 @@
     {
       "id": 95,
       "name": "f4_panel",
+      "supercategory": ""
+    },
+    {
+      "id": 96,
+      "name": "f1_domain",
       "supercategory": ""
     },
     {
